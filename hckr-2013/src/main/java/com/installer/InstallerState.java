@@ -1,4 +1,4 @@
-package com.fb.hckr.installer;
+package com.installer;
 
 import java.util.*;
 

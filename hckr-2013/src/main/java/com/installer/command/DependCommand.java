@@ -1,6 +1,6 @@
-package com.fb.hckr.installer.command;
+package com.installer.command;
 
-import com.fb.hckr.installer.InstallerState;
+import com.installer.InstallerState;
 
 import java.util.Arrays;
 import java.util.HashSet;

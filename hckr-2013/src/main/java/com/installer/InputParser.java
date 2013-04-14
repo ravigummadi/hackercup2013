@@ -1,6 +1,6 @@
-package com.fb.hckr.installer;
+package com.installer;
 
-import com.fb.hckr.installer.command.*;
+import com.installer.command.*;
 
 import java.util.List;
 
